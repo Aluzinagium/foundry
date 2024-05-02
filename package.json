@@ -26,6 +26,7 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.312.0",
     "@aws-sdk/s3-request-presigner": "^3.312.0",
+    "@foundryvtt/pdfjs": "github:foundryvtt/pdfjs",
     "@pixi/graphics-smooth": "^1.1.0",
     "@pixi/particle-emitter": "^5.0.8",
     "abort-controller": "^3.0.0",
