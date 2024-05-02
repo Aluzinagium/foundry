@@ -1,0 +1,29 @@
+{
+  "title": "Stennaria ICRPG",
+  "id": "stennaria-icrpg",
+  "system": "icrpgme",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "systemVersion": "1.3.3",
+  "background": "https://assets.forge-vtt.com/bazaar/systems/icrpgme/assets/assets/world-bg.png",
+  "lastPlayed": "Thu Dec 14 2023 21:41:44 GMT-0400 (Amazon Standard Time)",
+  "playtime": 277,
+  "safeMode": false,
+  "packs": [
+    {
+      "label": "(Baileywiki Free Maps Pack)Baileywiki Maps Prefabs",
+      "name": "baileywiki-maps-actors",
+      "type": "Actor",
+      "path": "packs/baileywiki-maps-actors",
+      "system": "icrpgme",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
